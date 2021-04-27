@@ -5,3 +5,4 @@ img = Image.open(imgPath)
 size = (200,200)
 o = img.resize(size)
 o.show()
+
