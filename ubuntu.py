@@ -1,2 +1,1 @@
 Thanks for downloading ubuntu
-
