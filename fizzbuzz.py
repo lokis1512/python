@@ -1,11 +1,11 @@
 def num():
     for i in range(1,16):
         if (i%3==0 and i%15==0):
-            print(i,"fizzbuzz")
+            print("fizzbuzz")
         elif i%3==0:
-            print(i,"fizz")
+            print("fizz")
         elif i%5==0:
-    	    print(i,"buzz")
+    	    print("buzz")
         else:
         	print(i)
         
